@@ -5,5 +5,5 @@
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://linkedin.com/in/jay j" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay j" height="30" width="40" /></a>
+<a href="linkedin.com/in/jatin-j-b9205815b" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay j" height="20" width="30" /></a>
 </p>
