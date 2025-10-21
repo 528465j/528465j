@@ -1,68 +1,56 @@
-<h1 align="center">Jatin - Data and Analytics</h1>
+<h1 align="center">Jatin | Analytics, ML, BI</h1>
+
 <p align="center">
-  From business questions to production-grade analytics and ML.
+  <a href="http://linkedin.com/in/jatin-j-b9205815b" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jatinjassi930@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <a href="http://linkedin.com/in/jatin-j-b9205815b" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jatinjassi930@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-## My data playbook
-<div align="center">
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>Frame the problem</h3>
-      <ul>
-        <li>Define impact metrics</li>
-        <li>Shape data contracts</li>
-        <li>Pick the right method</li>
-      </ul>
-    </td>
-    <td width="33%">
-      <h3>Build and validate</h3>
-      <ul>
-        <li>SQL + Python pipelines</li>
-        <li>ML with scikit-learn or PyTorch</li>
-        <li>Bias and error checks</li>
-      </ul>
-    </td>
-    <td width="33%">
-      <h3>Ship insights</h3>
-      <ul>
-        <li>Power BI dashboards</li>
-        <li>Clear narratives</li>
-        <li>Ops handover</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## Tech stack quick view
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,postgres,mysql,azure,aws,gcp,git,github,linux,pytorch,tensorflow,sklearn,tableau,powerbi,excel&perline=8" alt="skill icons"/>
+### Tooling I reach for
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=FFE873"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-2F4858?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
 </p>
 
 ---
 
-## Signature projects
-- <strong>WGAN image generation</strong> - <a href="https://github.com/528465j/AIHI/blob/main/Image-Generation-with-WGAN-D1.ipynb">notebook</a>  
-- <strong>Melanoma classification</strong> - <a href="https://github.com/528465j/AIHI/blob/main/Dermoscopic-Image-Classification-of-Melanoma.ipynb">notebook</a>  
-- <strong>Sparse Random Projection for medical images</strong> - <a href="https://github.com/528465j/AIHI/blob/main/Sparse-Random-Projection.ipynb">notebook</a>  
-- <strong>Cloud DMP evaluation</strong> - <a href="https://drive.google.com/file/d/1QJpQT0IysxDjlVBvz0Uw1huy4T1wxCP-/view?usp=sharing">report</a>  
-- <strong>Power BI - Mental health disparity dashboard</strong> - <a href="https://drive.google.com/file/d/1GSrHGZ8SVjH4nPCBkyrnEAlYR4kkX_yQ/view?usp=sharing">deck</a>  
+### Case study timeline
+<details>
+  <summary><strong>Telstra - store performance analytics</strong></summary>
+  <br>
+  Power BI + Excel performance tracker with live KPIs and cohorts. Partnered with managers for actioned insights.
+</details>
+
+<details>
+  <summary><strong>AI in healthcare - melanoma and imaging</strong></summary>
+  <br>
+  Clinical image classification with interpretability and dimensionality reduction for high dimensional data.  
+  ▶ <a href="https://github.com/528465j/AIHI/blob/main/Dermoscopic-Image-Classification-of-Melanoma.ipynb">melanoma notebook</a>  
+  ▶ <a href="https://github.com/528465j/AIHI/blob/main/Sparse-Random-Projection.ipynb">SRP notebook</a>
+</details>
+
+<details>
+  <summary><strong>Generative models - WGAN image synthesis</strong></summary>
+  <br>
+  Training stability tweaks and efficient compute usage on constrained resources.  
+  ▶ <a href="https://github.com/528465j/AIHI/blob/main/Image-Generation-with-WGAN-D1.ipynb">WGAN notebook</a>
+</details>
+
+<details>
+  <summary><strong>Data platforms - choose the right warehouse</strong></summary>
+  <br>
+  Comparative evaluation across Snowflake, Azure Synapse, and Redshift for analytics and ML workflows.  
+  ▶ <a href="https://drive.google.com/file/d/1QJpQT0IysxDjlVBvz0Uw1huy4T1wxCP-/view?usp=sharing">decision report</a>
+</details>
 
 ---
 
-## Where I create value
-- Retail performance analytics - Power BI run rate and cohort views for managers
-- Growth and retention analysis - segmentation and KPI trees
-- Data platform choices - pragmatic tradeoffs for scale, cost, and speed
+### How I like to work
+- clarify business impact, then pick the simplest effective method
+- optimise for readability and maintainability
+- ship dashboards and docs that non technical partners can use
